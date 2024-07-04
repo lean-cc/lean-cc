@@ -3,7 +3,7 @@
 
 ## 📋 Program languages:
 - Backend web development:
- > PHP, Mysql, php PDO, Flask
+ > PHP, Mysql, PHP: PDO, Flask
 - Frontend web development:
  > HTML, CSS, Bootstrap, Angular, Vue.js
 - Systems:
