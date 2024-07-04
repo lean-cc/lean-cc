@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kars</h1>
+<h3 align="center">A software developer from the Netherlands</h3>
 
-<!--
-**lean-cc/lean-cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📋 Program languages:
+- Backend web development:
+ > PHP, Mysql, php PDO, Flask
+- Frontend web development:
+ > HTML, CSS, Bootstrap, Angular, Vue.js
+- Systems:
+ > Debian 12 (ubuntu), Ubuntu server, Raspberry Pi
 
-Here are some ideas to get you started:
+## 💻 Projects:
+- Field labs - School project
+- Personal site (CV) - Home project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learn:
+- Arduino
+- Front end frameworks (Angular, Vue.js)
