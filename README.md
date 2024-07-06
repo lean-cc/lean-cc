@@ -13,6 +13,6 @@
 - Field labs - School project
 - Personal site (CV) - Home project
 
-## 📚 Learn:
+## 📚 Learning:
 - Arduino
 - Front end frameworks (Angular, Vue.js)
